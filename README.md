@@ -80,18 +80,9 @@ The existing admissions process relied heavily on manual activities:
 - Stronger governance
 
 ---
-
-## 🚀 Future Enhancements
-
-- Power BI Dashboard
-- Teams Approvals
-- Dataverse
-- Advanced Analytics
-
----
  
 ## 👤 Author
-- K.A
-- MSc Data Science & Business Analytics
-- Power Platform | Data Analytics | Process Improvement | Business Analysis
+K.A
+MSc Data Science & Business Analytics
+Power Platform | Data Analytics | Process Improvement | Business Analysis
 
