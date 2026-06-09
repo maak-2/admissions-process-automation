@@ -82,7 +82,7 @@ The existing admissions process relied heavily on manual activities:
 ---
  
 ## 👤 Author
-K.A
-MSc Data Science & Business Analytics
-Power Platform | Data Analytics | Process Improvement | Business Analysis
+-K.A
+-MSc Data Science & Business Analytics
+-Power Platform | Data Analytics | Process Improvement | Business Analysis
 
